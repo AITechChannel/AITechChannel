@@ -10,5 +10,5 @@
 
 - Movie App: https://movies-app-react-js-tuan-anh-doan.vercel.app/
 - Multi-App: https://multi-app-reactjs.vercel.app/
-- Task-App: https://crud-react-axios-redux-toolkit-ant-design.vercel.app/
+- Task-App: https://restful-api-react-axios-redux-toolkit-redux-thunk-ant-design.vercel.app/
 
