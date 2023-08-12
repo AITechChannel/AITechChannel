@@ -1,5 +1,5 @@
 
-# Doan Tuan Anh - Frontend Developer
+# Doan Tuan Anh - NextJS, ReactJS, NodeJS, NestJS Developer
 
 - Open and friendly.
 - Love to learn new things, especially things related to Frontend stacks.
